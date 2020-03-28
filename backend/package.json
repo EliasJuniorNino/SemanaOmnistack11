@@ -1,0 +1,10 @@
+{
+  "name": "semanaomnistack11",
+  "version": "1.0.0",
+  "description": "semana omnistack da rockeatseat",
+  "main": "index.js",
+  "repository": "https://github.com/EliasJuniorNino/semanaomnistack11.git",
+  "author": "Elias Junior Gomes da Silva",
+  "license": "MIT",
+  "dependencies": {}
+}
